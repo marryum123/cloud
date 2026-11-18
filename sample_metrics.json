@@ -1,0 +1,12 @@
+[
+  {"id": 1, "server": "web-01", "cpu_percent": 42, "memory_percent": 61, "requests": 1240},
+  {"id": 2, "server": "web-02", "cpu_percent": 38, "memory_percent": 55, "requests": 1105},
+  {"id": 3, "server": "db-01", "cpu_percent": 74, "memory_percent": 82, "requests": 3420},
+  {"id": 4, "server": "cache-01", "cpu_percent": 19, "memory_percent": 40, "requests": 8900},
+  {"id": 5, "server": "api-01", "cpu_percent": 53, "memory_percent": 67, "requests": 2150},
+  {"id": 6, "server": "api-02", "cpu_percent": 49, "memory_percent": 64, "requests": 1980},
+  {"id": 7, "server": "worker-01", "cpu_percent": 85, "memory_percent": 76, "requests": 430},
+  {"id": 8, "server": "worker-02", "cpu_percent": 62, "memory_percent": 70, "requests": 510},
+  {"id": 9, "server": "auth-01", "cpu_percent": 25, "memory_percent": 48, "requests": 1620},
+  {"id": 10, "server": "storage-01", "cpu_percent": 31, "memory_percent": 59, "requests": 740}
+]
